@@ -1,4 +1,4 @@
-# Precision Platformer
+# Precision Platformer Prototype
 
 A demo level for a puzzle-precision platformer. The core mechanic is that you control two different characters who can only touch their own color of blocks.
 However, by moving off a block you change it's color, so the two characters must work together to clear the level.
